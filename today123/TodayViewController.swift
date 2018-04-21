@@ -2,8 +2,8 @@
 //  TodayViewController.swift
 //  today123
 //
-//  Created by 涂舒舰 on 2018/3/8.
-//  Copyright © 2018年 涂舒舰. All rights reserved.
+//  Created by Tuski on 2018/3/8.
+//  Copyright © 2018年 Tuski. All rights reserved.
 //
 
 import UIKit
